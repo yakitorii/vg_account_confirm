@@ -1,3 +1,4 @@
 # vg_account_confirm
 VG認証用
 a8db6486f7eb43af2fb0aad623671a1f9a0dbd2ab92335877981ee700232bdc2
+0c0380d73671affd6be0a25fcb3b52e33510e147b3760dac1bb5eaf7d6a7e3af
